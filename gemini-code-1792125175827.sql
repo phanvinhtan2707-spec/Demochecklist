@@ -1,4 +1,4 @@
--- 1. Enable UUID Extension
+-- 1. 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- 2. User Profiles & Roles
